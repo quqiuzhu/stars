@@ -13,3 +13,9 @@
 * Google ExoPlayer for android [exoplayer](https://github.com/google/ExoPlayer)
 * Bilibili ijkplayer for android & ios [ijkplayer](https://github.com/Bilibili/ijkplayer)
 * VLC for windows & macOS [vlc](https://github.com/videolan/vlc)
+
+
+#### Server
+
+* Srs RTMP server [srs](https://github.com/ossrs/srs)
+* Nginx RTMP Module [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
