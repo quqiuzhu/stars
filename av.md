@@ -13,6 +13,7 @@
 * Google ExoPlayer for android [exoplayer](https://github.com/google/ExoPlayer)
 * Bilibili ijkplayer for android & ios [ijkplayer](https://github.com/Bilibili/ijkplayer)
 * VLC for windows & macOS [vlc](https://github.com/videolan/vlc)
+* IINA for macOS [iina](https://github.com/iina/iina)
 
 
 #### Server
