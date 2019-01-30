@@ -1,5 +1,11 @@
 ## Audio & Video 
 
+#### core
+
+* FFMPEG [github mirror](https://github.com/FFmpeg/FFmpeg) [official](https://ffmpeg.org)
+* opencv [opencv](https://github.com/opencv/opencv)
+
+
 #### Dash
 
 * Dash.js [Dash.js](https://github.com/Dash-Industry-Forum/dash.js)
