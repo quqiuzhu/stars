@@ -1,8 +1,8 @@
-## Audio & Video 
+## Media
 
 #### Core
 
-* FFMPEG [github mirror](https://github.com/FFmpeg/FFmpeg) [official](https://ffmpeg.org)
+* FFmpeg [github mirror](https://github.com/FFmpeg/FFmpeg) [official](https://ffmpeg.org)
 * opencv [opencv](https://github.com/opencv/opencv) [official](https://opencv.org)
 
 
