@@ -1,9 +1,9 @@
 ## Audio & Video 
 
-#### core
+#### Core
 
 * FFMPEG [github mirror](https://github.com/FFmpeg/FFmpeg) [official](https://ffmpeg.org)
-* opencv [opencv](https://github.com/opencv/opencv)
+* opencv [opencv](https://github.com/opencv/opencv) [official](https://opencv.org)
 
 
 #### Dash
